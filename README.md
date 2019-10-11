@@ -2,3 +2,5 @@
 BASIC CALCULATION 
 
 ITS CONSIST A C PROGRAM THAT DO BASIC CALCULATION.
+
+For ex Adding two numbers or multiply etc.
